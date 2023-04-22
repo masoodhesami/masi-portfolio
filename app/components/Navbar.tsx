@@ -27,7 +27,7 @@ export default function Navbar({}) {
                         <ul className="flex flex-col lg:flex-row list-none lg:ml-auto md:font-medium">
                             <li className="nav-item">
                                 <a
-                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-black hover:opacity-75"
+                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-black hover:opacity-75 underline decoration-2 underline-offset-8"
                                     href="#pablo"
                                 >
                                     <span className="ml-2">Home</span>
@@ -35,7 +35,7 @@ export default function Navbar({}) {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-black hover:opacity-75"
+                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-slate-400 hover:opacity-75"
                                     href="#pablo"
                                 >
                                     <span className="ml-2">Portfolio</span>
@@ -43,7 +43,7 @@ export default function Navbar({}) {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-black hover:opacity-75"
+                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-slate-400 hover:opacity-75"
                                     href="#pablo"
                                 >
                                     <span className="ml-2">About</span>
@@ -51,7 +51,7 @@ export default function Navbar({}) {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-black hover:opacity-75"
+                                    className="px-3 py-2 flex items-center font-light text-md leading-snug text-slate-400  hover:opacity-75"
                                     href="#pablo"
                                 >
                                     <span className="ml-2">Contact</span>
